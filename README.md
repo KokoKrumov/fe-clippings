@@ -1,16 +1,16 @@
 # FE Task
 
-##Available on:
+## Available on:
 https://fe-clippings.vercel.app/
 
-##Tech stack: 
+## Tech stack: 
 - ReactJS
 - Axios
 - React-Redux
 - Tailwindcss
 
 
-##Requirements:
+## Requirements:
 
 - Create an employee board that displays all employees.
 - The board should display the organization name and departments.
@@ -21,7 +21,7 @@ https://fe-clippings.vercel.app/
 - The User should be able to select all employees in a department.
 - The User should be able to select all employees in the organization.
 
-##Screenshot:
+## Screenshot:
 <div>
 <img
 alt="clippings"
@@ -31,7 +31,7 @@ src="https://fe-clippings.vercel.app/Screenshot.png"
 <br>
 <br>
 
-###If I had more time I would:<br>
+### If I had more time I would:<br>
 1. Change the way we show the active states of buttons.<br>
 2. Support mobile view.<br>
 3. Refactor so that a global state manager is used in Redux.<br>
