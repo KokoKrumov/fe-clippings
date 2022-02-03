@@ -27,6 +27,17 @@ https://fe-clippings.vercel.app/
 alt="clippings"
 src="https://fe-clippings.vercel.app/Screenshot.png"
 />
+
+<br>
+<br>
+
+###If I had more time I would:<br>
+1. Change the way we show the active states of buttons.<br>
+2. Support mobile view.<br>
+3. Refactor so that a global state manager is used in Redux.<br>
+<br>
+<br>
+<br>
 </div>
 In the project directory, you can run:
 
