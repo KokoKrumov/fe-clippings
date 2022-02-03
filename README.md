@@ -1,9 +1,33 @@
-# Getting Started with Create React App
+# FE Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Available on:
+https://fe-clippings.vercel.app/
 
-## Available Scripts
+##Tech stack: 
+- ReactJS
+- Axios
+- React-Redux
+- Tailwindcss
 
+
+##Requirements:
+
+- Create an employee board that displays all employees.
+- The board should display the organization name and departments.
+- Every department section should display associated employees.
+- Information for the employee should be a card and display an image and name.
+- The User should be able to filter employees by department.
+- The User should be able to select an individual employee.
+- The User should be able to select all employees in a department.
+- The User should be able to select all employees in the organization.
+
+##Screenshot:
+<div>
+<img
+alt="clippings"
+src="https://fe-clippings.vercel.app/Screenshot.png"
+/>
+</div>
 In the project directory, you can run:
 
 ### `npm start`
